@@ -5,16 +5,16 @@
   <a href="https://www.linkedin.com/in/mvgentil/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-Sou um Engenheiro de Dados Júnior com experiencia em Python e SQL. Atualmente estudo e aprofundo minhas habilidades em Cloud (AWS) e Databricks.
+Sou um Engenheiro de Dados Júnior com experiencia em Python e SQL. Atualmente estudo e aprofundo minhas habilidades em Cloud (AWS e GCP) e Databricks.
 
 ---
 
 ### 👨‍💻 Sobre mim
 
-- 🚀 Engenheiro de Dados Júnior
+- 🚀 Engenheiro de Dados
 - 🐍 Experiência com **Python** para automação e manipulação de dados.
 - 💾 Proficiente em **SQL** para consulta e análise de bancos de dados.
-- 🌱 Atualmente estudando e aprofundando meus conhecimentos em **Cloud (AWS)** e **Databricks**.
+- 🌱 Atualmente estudando e aprofundando meus conhecimentos em **Cloud (AWS e GCP)** e **Databricks**.
 - 🎯 Buscando oportunidades para aplicar minhas habilidades e aprender com desafios do mundo real.
 
 ---
@@ -39,6 +39,7 @@ Sou um Engenheiro de Dados Júnior com experiencia em Python e SQL. Atualmente e
 
 Atualmente, meu foco de estudo está em:
 - **AWS:** Explorando serviços como S3, Glue, Lambda e Redshift.
+- **GCP:** Recursos como Cloud Composer, Cloud Run, BigQuery e GCS
 - **Databricks:** Aprofundando na plataforma para processamento de dados em larga escala.
 - **Arquitetura de Dados:** Estudando conceitos de Data Lake, Data Warehouse e pipelines de dados eficientes.
 
